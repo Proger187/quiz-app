@@ -17,11 +17,11 @@ const config: Configuration = {
   },
   win: {
     target: 'nsis',
-    icon: 'assets/icon.ico',
+    icon: 'assets/icon.png',
   },
   mac: {
     target: 'dmg',
-    icon: 'assets/icon.icns',
+    icon: 'assets/icon.png',
   },
   linux: {
     target: 'AppImage',
